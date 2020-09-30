@@ -1,2 +1,2 @@
 # CMPSCI_4280_P3
-Reading and writing to a file using stacks. 
+Reading and writing to a file using trees. 
