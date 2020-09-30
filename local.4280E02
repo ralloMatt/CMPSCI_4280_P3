@@ -1,0 +1,44 @@
+VOID X Y
+BEGIN :
+
+	BEGIN:
+		BEGIN
+		VOID X W:	
+			INPUT W:
+		END:
+
+		BEGIN :
+			INPUT W:
+		END:
+	END:
+
+	IF(x == 7) 
+	BEGIN
+	VOID WHAT: 
+		INPUT WHAT:
+	END:
+
+	INPUT Y:
+
+	BEGIN
+	VOID Y:
+		BEGIN 
+		VOID YOUT:
+			INPUT hi:
+		END:
+
+		OUTPUT 6 + 9:
+
+		INPUT Y:
+	END:
+
+	INPUT hi:
+
+	BEGIN
+	VOID G:
+		
+		INPUT G:
+
+	END:
+END
+

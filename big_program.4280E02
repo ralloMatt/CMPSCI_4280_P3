@@ -1,0 +1,17 @@
+VOID X Y Z
+BEGIN
+VOID B C :
+	IF ( X <=< B)
+	BEGIN 
+	VOID Y :
+	C = Y:
+	END:
+
+	BEGIN
+	VOID really :
+	OUTPUT 2 + 5 :
+	INPUT Z :
+	END :
+
+	INPUT HI :
+END
